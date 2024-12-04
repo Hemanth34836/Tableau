@@ -4,13 +4,13 @@ This repository showcases a diverse set of projects created using Tableau, demon
 
 Project Highlights
 
-Sales Performance Dashboard
+1) Sales Performance Dashboard
 
 Analyzed regional and product-level sales data to identify top-performing areas.
 Highlighted trends in revenue growth, profitability, and customer demographics.
 Key Visuals: Charts and KPIs for dynamic performance tracking.
 
-Super Stores Sales Dashboard
+2) Super Stores Sales Dashboard
 
 Sales Performance Overview:Visualized overall sales, profit, and quantity metrics across different time periods.
 Identified top-performing product categories and subcategories.
